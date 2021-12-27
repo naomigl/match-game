@@ -1,3 +1,7 @@
-function Card (color: string) {
-    
+function Card ({color}) {
+    return (
+        <div></div>
+    )
 } 
+
+export default Card
